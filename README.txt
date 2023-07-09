@@ -1,3 +1,6 @@
+Here's the link to the page I'm getting my coding challenges from:
+https://adventofcode.com/
+
 This is a repo containing my attempts at solving however many "advent of code 2022" coding challenges/puzzles as my brain can handle while I try to find a job 
 DO NOT expect quality code here... I am trying to get a general picture of Javascript (which I had never before used), 
 after the better part of 6 months of not coding ANYTHING AT ALL.
